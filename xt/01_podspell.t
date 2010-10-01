@@ -8,3 +8,5 @@ __DATA__
 punytan
 punytan@gmail.com
 Plack::Session::Store::TokyoTyrant
+serializer
+deserializer
